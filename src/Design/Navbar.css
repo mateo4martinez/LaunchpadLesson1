@@ -1,8 +1,8 @@
 .general{
-    /* position: absolute; */
+    position: absolute; 
     width: 1440px;
     height: 65px;
-    left: 0px;
+    /* left: 0px; */
     top: 0px;
 
     background: #FFFFFF;
@@ -10,27 +10,27 @@
 }
 
 #riceappslogo{
-    /* position: absolute; */
+    position: absolute;
     width: 46px;
     height: 46px;
     left: 29px;
-    top: 12px;
+    /* top: 12px; */
 }
 
-#button{
-    position: absolute;
-    width: 161px;
+/* #button{ */
+    /* position: absolute; */
+    /* width: 161px;
     height: 38px;
     left: 1245px;
     top: 13px;
 
     background: #000000;
-    border-radius: 10px;
-}
+    border-radius: 10px; */
+/* } */
 
-.text{
-    position: absolute;
-    width: 124px;
+/* .text{ */
+    /* position: absolute; */
+    /* width: 124px;
     height: 47px;
     left: 1263px;
     top: 8px;
@@ -44,5 +44,6 @@
     align-items: center;
     text-align: center;
 
-    color: #FFFFFF;
-}
+    color: #FFFFFF; */
+/* } */
+

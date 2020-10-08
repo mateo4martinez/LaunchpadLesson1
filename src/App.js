@@ -7,7 +7,7 @@ import DescriptionBoxes from './Components/DescriptionBoxes';
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <Navbar/>
       <Hero/>
       {/* <Heading/> */}
