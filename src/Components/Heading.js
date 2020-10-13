@@ -3,8 +3,8 @@ import '../Design/Heading.css';
 
 function Heading(){
     return (
-        <div class='general'>
-            <p>
+        <div id='center'>
+            <p id='heading'>
                 This is RiceApps.
             </p>
         </div>

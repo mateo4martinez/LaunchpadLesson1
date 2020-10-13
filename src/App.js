@@ -10,8 +10,8 @@ function App() {
     <div className="container">
       <Navbar/>
       <Hero/>
-      {/* <Heading/> */}
-      {/* <DescriptionBoxes/> */}
+      <Heading/>
+      <DescriptionBoxes/>
     </div>
   );
 }

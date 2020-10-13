@@ -3,15 +3,13 @@ import '../Design/DescriptionBox.css';
 
 function DescriptionBox(props){
     return (
-        <div class='general'>
-            <div class='text'>
-                <p>
-                    {props.title}
-                </p>
-                <p>
-                    {props.description}
-                </p>
-            </div>
+        <div id='box'>
+            <h3 id='title'>
+                <b>{props.title}</b>
+            </h3>
+            <p id='text'>
+                {props.description}
+            </p>
         </div>
     )
 }

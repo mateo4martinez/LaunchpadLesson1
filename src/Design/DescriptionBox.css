@@ -1,27 +1,28 @@
-.general{
-    position: absolute;
-    width: 437px;
-    height: 282px;
-    left: 37px;
-    top: 580px;
+#box{
+    width: 30%;
+    height: 300px;
+    padding: 0px 9px;
 
-    background: #FFFFFF;
+    background-color: white;
     border-radius: 20px;
 }
 
-.text{
-    position: absolute;
-    width: 348px;
-    height: 248px;
-    left: 543px;
-    top: 597px;
-
+#title{
     font-family: Quicksand;
     font-style: normal;
     font-weight: 500;
-    font-size: 50px;
-    line-height: 62px;
+    font-size: 35px;
+    line-height: 10px;
     text-align: center;
+    color: black;
+}
 
-    color: #000000;
+#text{
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+    color: black;
 }
